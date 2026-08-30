@@ -57,3 +57,71 @@ intelligent workflows, automations, interfaces and systems that ship.
 <div align="center">
   <sub>Designed as a living engineering log — not a static résumé.</sub>
 </div>
+
+## `//` Systems map
+
+```mermaid
+flowchart LR
+    A[Signal / Problem] --> B[Research & framing]
+    B --> C[Prototype]
+    C --> D[Build]
+    D --> E{Validate}
+    E -->|Useful| F[Ship & observe]
+    E -->|Not yet| B
+    F --> G[Document & iterate]
+```
+
+> The work is organized around a simple rule: every feature should connect a real signal to an observable outcome.
+
+## `//` Engineering loop
+
+```mermaid
+sequenceDiagram
+    participant U as User / Field signal
+    participant P as Product layer
+    participant A as AI / Automation
+    participant H as Human review
+    participant R as Result / Evidence
+
+    U->>P: context, request, constraint
+    P->>A: structured task
+    A-->>P: proposal / automation
+    P->>H: decision-ready output
+    H->>R: approve, revise or reject
+    R-->>P: feedback for the next iteration
+```
+
+## `//` Semantic contract
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "identity": {
+    "handle": "Victor-Enginner",
+    "role": "AI Engineer",
+    "mission": "Build intelligent systems that turn complex signals into useful action"
+  },
+  "operating_model": {
+    "inputs": ["user context", "operational signals", "constraints"],
+    "methods": ["product thinking", "automation", "human-in-the-loop AI"],
+    "outputs": ["working software", "auditable decisions", "measurable improvement"]
+  },
+  "principles": [
+    "privacy and security by design",
+    "evidence over hype",
+    "iterate in public when possible"
+  ]
+}
+```
+
+## `//` Current vectors
+
+| Vector | Building toward | Evidence |
+| :-- | :-- | :-- |
+| Agentic systems | Human-guided workflows and autonomous task coordination | [Intelligence](https://github.com/Victor-Enginner/intelligence) |
+| Civic / operational impact | Signals turned into traceable missions | [Farol](https://github.com/Victor-Enginner/farol) |
+| Product interfaces | Clear, fast interfaces for complex systems | [Portfolio](https://github.com/Victor-Enginner/Portf-lio) |
+
+## `//` Note on motion
+
+The header is intentionally animated as a small live signal. The architecture remains text-native, fast to load, accessible and readable in both light and dark GitHub themes.
