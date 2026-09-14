@@ -1,118 +1,178 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · victor-enginner</sub></p>
-<h1>Victor Ads</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+# `VICTOR-ENGINNER`
 
-<p><a href="https://github.com/victor-enginner">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Victor Ads animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
+### AI ENGINEERING · AUTOMATION · PRODUCT SYSTEMS · ETHICAL SECURITY
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-00d9ff?style=flat-square" alt="Building in public" />
+<img src="https://img.shields.io/badge/BASE-BRAZIL-39d98a?style=flat-square" alt="Brazil" />
+<img src="https://img.shields.io/badge/FOCUS-USEFUL%20SYSTEMS-8b5cf6?style=flat-square" alt="Useful systems" />
+
+<br />
+
+> Turning complex signals into useful software: intelligent workflows, automations,
+> interfaces and systems that ship.
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+```bash
+┌─[ victor@cyberdek ]─[ ~/mission ]
+└──╼ $ whoami
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · Python</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>26 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>97 contributions · 30 active days</p></td>
-</tr>
-</table>
+AI engineer focused on turning complex ideas into useful software.
+I design the path from signal → reasoning → action → observable outcome.
+```
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+## `//` Core stack
 
-<h2>Proof at a glance</h2>
+### Languages & runtime
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>26</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>97</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Victor Ads GitHub proof metrics" />
-</picture>
-</p>
+### Interfaces & product layer
 
-<h2>Selected work</h2>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-111827?style=flat-square&logo=css3&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&repos=victor-enginner%2FFootball-Blitz-Card-%2Cvictor-enginner%2FFootball-Blitz-Card-cassino%2Cvictor-enginner%2Forbita-studio%2Cvictor-enginner%2Fcartel-576&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&repos=victor-enginner%2FFootball-Blitz-Card-%2Cvictor-enginner%2FFootball-Blitz-Card-cassino%2Cvictor-enginner%2Forbita-studio%2Cvictor-enginner%2Fcartel-576&v=recruiter-projects-1&mode=dark" width="100%" alt="Victor Ads selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Victor-Enginner/Football-Blitz-Card-">Football-Blitz-Card-</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Victor-Enginner/Football-Blitz-Card-">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+### Data, AI & delivery
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Victor-Enginner/Football-Blitz-Card-cassino">Football-Blitz-Card-cassino</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Victor-Enginner/orbita-studio">orbita-studio</a></h3><p>Órbita Studio — frontend operacional para produção de conteúdo com neural background</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Victor-Enginner/cartel-576">cartel-576</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<h2>Technical toolkit</h2>
+My working toolkit combines typed product engineering, Python-based AI experiments,
+API and automation design, relational data, versioned delivery and security-minded
+operational practices. The stack changes with the problem; the contract does not:
+make the system useful, inspectable and maintainable.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Victor Ads technology stack" />
-</picture>
-</p>
+## `//` What I build
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>67% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
-</tr>
-</table>
+| Vector | Building toward | Evidence |
+| --- | --- | --- |
+| Agentic systems | Human-guided workflows, tool use and autonomous task coordination | [Intelligence](https://github.com/Victor-Enginner/intelligence) |
+| Automation | Repetitive work reduced to explicit, testable steps | [AI Experiments](https://github.com/Victor-Enginner/Ai-Experiments) |
+| Product interfaces | Clear, fast interfaces for complex systems | [Portfolio](https://github.com/Victor-Enginner/Portf-lio) |
+| Civic / operational impact | Signals turned into traceable missions | [Farol](https://github.com/Victor-Enginner/farol) |
+| Ethical security | Privacy, least privilege and responsible AI as product requirements | Public engineering log |
 
-<h2>Consistency signal</h2>
+## `//` Selected systems
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=victor-enginner&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Victor Ads contribution activity" />
-</picture>
-</p>
+| Project | What it represents | Stack / role |
+| --- | --- | --- |
+| [Portfolio](https://github.com/Victor-Enginner/Portf-lio) | Personal product and interface exploration | TypeScript · UI engineering |
+| [Intelligence](https://github.com/Victor-Enginner/intelligence) | Experiments around intelligent applications | TypeScript · AI systems |
+| [Farol](https://github.com/Victor-Enginner/farol) | Mission-driven hackathon MVP | TypeScript · product systems |
+| [AI Experiments](https://github.com/Victor-Enginner/Ai-Experiments) | Practical AI research and prototypes | Python · AI / experiments |
+| [Órbita Studio](https://github.com/Victor-Enginner/orbita-studio) | Frontend operational studio for content production | JavaScript · interface systems |
+| [Football Blitz Card](https://github.com/Victor-Enginner/Football-Blitz-Card) | Public experiment with data, game logic and presentation | Python · product prototype |
 
-<hr />
+## `//` Systems map
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/victor-enginner">GitHub</a></td>
-</tr>
-</table>
+The work is organized around one rule: every feature should connect a real signal to
+an observable outcome.
 
-<p align="center"><sub>Victor Ads · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+```mermaid
+flowchart LR
+    S[Signal / problem] --> C[Context + constraints]
+    C --> F[Framing]
+    F --> P[Prototype]
+    P --> B[Build]
+    B --> V{Validate}
+    V -->|useful| O[Ship + observe]
+    V -->|not yet| F
+    O --> D[Document + iterate]
+    D -. feedback .-> C
+```
+
+## `//` Engineering loop
+
+```mermaid
+sequenceDiagram
+    participant U as User / field signal
+    participant P as Product layer
+    participant A as AI / automation
+    participant H as Human review
+    participant E as Result / evidence
+
+    U->>P: context, request, constraint
+    P->>A: structured task
+    A-->>P: proposal / automation
+    P->>H: decision-ready output
+    H->>E: approve, revise or reject
+    E-->>P: evidence + feedback
+    P-->>U: useful outcome
+```
+
+## `//` Semantic graph
+
+```mermaid
+graph TD
+    Identity[Victor-Enginner / AI Engineer]
+    Mission[Build intelligent systems that turn complex signals into useful action]
+    Inputs[Inputs: user context · operational signals · constraints]
+    Methods[Methods: product thinking · automation · human-in-the-loop AI]
+    Outputs[Outputs: working software · auditable decisions · measurable improvement]
+    Principles[Principles: privacy by design · evidence over hype · iterate in public]
+
+    Identity --> Mission
+    Mission --> Inputs
+    Inputs --> Methods
+    Methods --> Outputs
+    Outputs --> Principles
+    Principles -. improve .-> Mission
+```
+
+## `//` Semantic contract
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "identity": {
+    "handle": "Victor-Enginner",
+    "role": "AI Engineer",
+    "mission": "Build intelligent systems that turn complex signals into useful action"
+  },
+  "operating_model": {
+    "inputs": ["user context", "operational signals", "constraints"],
+    "methods": ["product thinking", "automation", "human-in-the-loop AI"],
+    "outputs": ["working software", "auditable decisions", "measurable improvement"]
+  },
+  "principles": [
+    "privacy and security by design",
+    "evidence over hype",
+    "iterate in public when possible"
+  ]
+}
+```
+
+## `//` Operating principles
+
+```text
+01. Build small, test early, iterate fast.
+02. Automate the repetitive; reserve judgment for the important.
+03. Security, privacy and responsible AI are product requirements.
+04. Prefer evidence, observability and clear failure modes over hype.
+05. Good engineering is clear, maintainable and useful to people.
+```
+
+## `//` Connect
+
+- GitHub: [@Victor-Enginner](https://github.com/Victor-Enginner)
+- Portfolio: [Portf-lio](https://github.com/Victor-Enginner/Portf-lio)
+- Open to: AI engineering · automation · product systems · ethical security
+
+<div align="center">
+
+_Designed as a living engineering log — not a static résumé._
+
+</div>
