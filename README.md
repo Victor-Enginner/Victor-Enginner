@@ -1,54 +1,69 @@
-## Building in public
-
 <div align="center">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ember-poster.png">
+  <img src="assets/ember-neural.gif" alt="Banner animado com efeito de fogo e rede neural sutil, mostrando o nome Victor Ads em estilo premium de engenharia" width="900" height="330">
+</picture>
 
 # Victor Ads
 
-> Technical founder
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=victor-enginner&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4" alt="victor-enginner hero visual" />
-</p>
+**Da complexidade ao software que funciona.**
 
 </div>
 
-## The point of view
+## Sobre
 
-> Building useful things and learning in public.
+Engenheiro de IA focado em transformar ideias complexas em software útil. Projeto o caminho do sinal → raciocínio → ação → resultado observável. Trabalho com engenharia de produto tipada, experimentos de IA em Python, design de API e automação, dados relacionais e práticas operacionais focadas em segurança.
 
-- 👥 **2** followers · **6** following
+Baseado no Brasil, construo sistemas que conectam sinais reais a resultados observáveis, com ênfase em privacidade, revisão humana e engenharia responsável.
 
-*Small, useful work over vague claims.*
+## Projetos selecionados
 
-## What I’m shipping
+[![Órbita Studio](assets/orbita.png)](https://github.com/Victor-Enginner/orbita-studio)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=victor-enginner&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4" alt="victor-enginner highlights visual" />
-</p>
+[![Intelligence](assets/intelligence.png)](https://github.com/Victor-Enginner/intelligence)
 
-<p><b>Victor Ads</b> is shipping 26 public projects with 0 stars of proof.</p>
+[![Farol](assets/farol.png)](https://github.com/Victor-Enginner/farol)
 
-## Products and proof
+## Stack
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Victor-Enginner/Football-Blitz-Card-">Football-Blitz-Card-</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Victor-Enginner/Football-Blitz-Card-cassino">Football-Blitz-Card-cassino</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Victor-Enginner/orbita-studio">orbita-studio</a></b></td><td>Órbita Studio — frontend operacional para produção de conteúdo com neural background<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Victor-Enginner/cartel-576">cartel-576</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
+| Tecnologia | Uso |
+|------------|-----|
+| TypeScript | Desenvolvimento de produto e interfaces |
+| JavaScript | Automação e scripts |
+| Python | Experimentos de IA e prototipagem |
+| React | Interfaces de usuário |
+| Next.js | Framework de React |
+| Tailwind CSS | Estilização |
+| Node.js | Runtime e APIs |
+| PostgreSQL | Banco de dados relacional |
+| Supabase | Backend como serviço |
+| Git | Controle de versão |
+| Docker | Containerização |
+| Linux | Ambiente de desenvolvimento |
 
-## Momentum
+## Engenharia consciente
 
-<table>
-<tr><td align="center"><b>26</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>105</b><br/><sub>contributions</sub></td></tr>
-</table>
+Meu trabalho é guiado por princípios de engenharia responsável:
 
-## Start a conversation
+- **Privacidade por design**: Trato dados pessoais com responsabilidade, minimizando coleta e maximizando transparência
+- **Revisão humana**: Automação é poderosa, mas decisões importantes requerem supervisão humana
+- **Segurança como requisito**: Práticas de segurança são integradas desde o início, não adicionadas depois
+- **Evidência sobre hype**: Prefiro resultados observáveis e medições claras a promessas exageradas
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=victor-enginner&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295998838%3Fu%3D45a476928973291ad4e44c611881b74c0db98bd0%26v%3D4" alt="victor-enginner social visual" />
-</p>
+## Links
 
-<a href="https://github.com/victor-enginner">GitHub</a>
+- **Perfil**: [@Victor-Enginner](https://github.com/Victor-Enginner)
+- **Repositórios**: [Ver todos](https://github.com/Victor-Enginner?tab=repositories)
+- **Portfólio**: [portfolio/](portfolio/)
+- **Órbita Studio**: [orbita-studio](https://github.com/Victor-Enginner/orbita-studio)
+- **Intelligence**: [intelligence](https://github.com/Victor-Enginner/intelligence)
+- **Farol**: [farol](https://github.com/Victor-Enginner/farol)
 
-<p align="center"><sub>Victor Ads · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+<div align="center">
+
+*Construído como um registro de engenharia em evolução — não um currículo estático.*
+
+</div>
