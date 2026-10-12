@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="230" viewBox="0 0 430 230" role="img" aria-label="data-sales-agent — Pipeline local-first: dados → e-book → landing page com dashboard → relatório."><title>data-sales-agent — Pipeline local-first: dados → e-book → landing page com dashboard → relatório.</title><style>
+  .t{font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#22c55e}.m{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, monospace;fill:#86efac}.s{fill:#4ade80}
+  .pisca{animation:p 1.1s steps(1) infinite}@keyframes p{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){.pisca{animation:none!important}.anda,.flutua animate,.flutua animateTransform{display:none}}
+</style>
+  <defs>
+    <filter id="pblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+    <clipPath id="pclip"><rect x="1" y="1" width="428" height="228" rx="22"/></clipPath>
+    <linearGradient id="pborda" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bbf7d0" stop-opacity=".75"/><stop offset=".35" stop-color="#22c55e" stop-opacity=".35"/><stop offset="1" stop-color="#22c55e" stop-opacity=".1"/></linearGradient>
+    <linearGradient id="pvidro" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".09"/><stop offset=".4" stop-color="#ffffff" stop-opacity=".025"/><stop offset="1" stop-color="#ffffff" stop-opacity=".01"/></linearGradient>
+    <linearGradient id="pbrilho" gradientUnits="userSpaceOnUse" x1="-430" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0"/><stop offset=".5" stop-color="#d9f99d" stop-opacity=".95"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+      <animate attributeName="x1" values="-430;430" dur="6s" repeatCount="indefinite"/><animate attributeName="x2" values="0;860" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#pclip)">
+    <rect width="430" height="230" fill="#020a05"/>
+    <g filter="url(#pblur)">
+      <circle cx="51.6" cy="0" r="172.5" fill="#16ff5c" opacity="0.75" class="flutua">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 34.4 27.599999999999998; 0 0" dur="14s" repeatCount="indefinite"/></circle>
+      <circle cx="266.6" cy="11.5" r="138" fill="#059669" opacity="0.55" class="flutua">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -25.8 23; 0 0" dur="18s" repeatCount="indefinite"/></circle>
+      <circle cx="215" cy="241.5" r="126.50000000000001" fill="#a3e635" opacity="0.45" class="flutua">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 43 -18.400000000000002; 0 0" dur="16s" repeatCount="indefinite"/></circle>
+      <circle cx="421.4" cy="230" r="126.50000000000001" fill="#4338ca" opacity="0.6" class="flutua">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -21.5 -23; 0 0" dur="20s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+  <rect x="1" y="1" width="428" height="228" rx="22" fill="none" stroke="url(#pborda)" stroke-width="1.2"/>
+  <rect x="1" y="1" width="428" height="228" rx="22" fill="none" stroke="url(#pbrilho)" stroke-width="1.6" class="flutua"/>
+  <rect x="20" y="20" width="390" height="190" rx="16" fill="#03140a" fill-opacity=".42"/>
+  <rect x="20" y="20" width="390" height="190" rx="16" fill="url(#pvidro)" stroke="url(#pborda)" stroke-width="1"/>
+  <path d="M36 21 H394" stroke="#ecfccb" stroke-opacity=".35" stroke-width="1"/>
+    <text class="m" x="44" y="44" font-size="12" font-weight="700">● data-sales-agent</text><text class="m" x="386" y="44" font-size="12" font-weight="700" text-anchor="end" fill="#a3e635">ver código ↗</text>
+    
+    <text class="t" x="44" y="76" font-size="21" font-weight="800">data-sales-agent<tspan class="pisca"> _</tspan></text>
+    <text class="m" x="44" y="102" font-size="12.5" fill="#bbf7d0">Pipeline local-first: dados → e-book →</text><text class="m" x="44" y="120" font-size="12.5" fill="#bbf7d0">landing page com dashboard → relatório.</text><circle cx="48" cy="184" r="5" fill="#f1e05a"/><text class="m" x="58" y="188" font-size="12">JavaScript</text>
+    <text class="m" x="150" y="188" font-size="12">★ 0 · atualizado há 17 dias</text></svg>
