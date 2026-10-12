@@ -56,7 +56,7 @@ Baseado no Brasil, construo sistemas que conectam sinais reais a resultados obse
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://golgotha-project.vercel.app"><img src="assets/projetos/golgothateams.jpg" alt="Golgothateams" width="100%"></a><br><b>Golgothateams</b><br><sub>Security Ops Hub: roadmap, setup, arsenal e playbook de segurança ofensiva ética.</sub><br><a href="https://golgotha-project.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/Golgothateams">⌨️ código</a></td>
-<td width="50%" valign="top"><a href="https://github.com/Victor-Enginner/data-sales-agent"><img src="assets/projetos/data-sales-agent.jpg" alt="data-sales-agent" width="100%"></a><br><b>data-sales-agent</b><br><sub>Pipeline local-first: dados → e-book → landing page com dashboard → relatório.</sub><br><a href="https://github.com/Victor-Enginner/data-sales-agent">⌨️ código</a></td>
+<td width="50%" valign="top"><b>data-sales-agent</b><br><sub>Pipeline local-first: dados → e-book → landing page com dashboard → relatório.</sub><br><a href="https://github.com/Victor-Enginner/data-sales-agent">⌨️ código</a></td>
 </tr>
 </table>
 
