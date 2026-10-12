@@ -1,8 +1,0 @@
-[
-  { "repo": "VIRTUAL-3D-", "titulo": "Escritório Virtual 3D", "descricao": "Agentes de IA locais que prospectam, auditam e preparam a abordagem num escritório 3D vivo: o Paraíso Artificial.", "print": "assets/projetos/escritorio-3d.jpg", "site": null },
-  { "repo": "REPASSAI", "titulo": "REPASS AI", "descricao": "Plataforma OSINT e motor agêntico de sites 3D: acha o negócio, gera o site e a abordagem.", "print": "assets/projetos/repassai.jpg", "site": "https://repass-ai-beta.netlify.app" },
-  { "repo": "Victor-Ads", "titulo": "Victor Ads", "descricao": "Sistemas de IA e automação para o negócio de uma pessoa só rodar como um time.", "print": "assets/projetos/victor-ads.jpg", "site": "https://victor-ai-enginner.vercel.app" },
-  { "repo": "victor-hub-ai", "titulo": "Victor Hub AI", "descricao": "Arsenal pessoal de produção real: interfaces animadas e sistemas que vendem.", "print": "assets/projetos/victor-hub-ai.jpg", "site": "https://victor-hub-ai.vercel.app" },
-  { "repo": "Golgothateams", "titulo": "Golgothateams", "descricao": "Security Ops Hub: roadmap, setup, arsenal e playbook de segurança ofensiva ética.", "print": "assets/projetos/golgothateams.jpg", "site": "https://golgotha-project.vercel.app" },
-  { "repo": "data-sales-agent", "titulo": "data-sales-agent", "descricao": "Pipeline local-first: dados → e-book → landing page com dashboard → relatório.", "print": null, "site": null }
-]

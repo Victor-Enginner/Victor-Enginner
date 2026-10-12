@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Victor-Enginner"><img src="assets/cards/capa.svg" alt="Victor Ads — @victor-enginner" width="100%" /></a>
+<a href="https://github.com/Victor-Enginner"><img src="assets/gitskins/hero.svg" alt="Victor Ads — engenharia de IA" /></a>
 </p>
 
 <div align="center">
@@ -47,16 +47,16 @@ Baseado no Brasil, construo sistemas que conectam sinais reais a resultados obse
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><a href="https://github.com/Victor-Enginner/VIRTUAL-3D-"><img src="assets/cards/projeto-virtual-3d-.svg" alt="Escritório Virtual 3D" width="100%" /></a><br><a href="https://github.com/Victor-Enginner/VIRTUAL-3D-">⌨️ código</a></td>
-<td width="50%" valign="top" align="center"><a href="https://repass-ai-beta.netlify.app"><img src="assets/cards/projeto-repassai.svg" alt="REPASS AI" width="100%" /></a><br><a href="https://repass-ai-beta.netlify.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/REPASSAI">⌨️ código</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Victor-Enginner/VIRTUAL-3D-"><img src="assets/projetos/escritorio-3d.jpg" alt="Escritório Virtual 3D · Paraíso Artificial" width="100%"></a><br><b>Escritório Virtual 3D · Paraíso Artificial</b><br><sub>Agentes de IA locais que prospectam, auditam e preparam a abordagem num escritório 3D vivo.</sub><br><a href="https://github.com/Victor-Enginner/VIRTUAL-3D-">⌨️ código</a></td>
+<td width="50%" valign="top"><a href="https://repass-ai-beta.netlify.app"><img src="assets/projetos/repassai.jpg" alt="REPASS AI" width="100%"></a><br><b>REPASS AI</b><br><sub>Plataforma OSINT e motor agêntico de sites 3D: acha o negócio, gera o site e a abordagem.</sub><br><a href="https://repass-ai-beta.netlify.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/REPASSAI">⌨️ código</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><a href="https://victor-ai-enginner.vercel.app"><img src="assets/cards/projeto-victor-ads.svg" alt="Victor Ads" width="100%" /></a><br><a href="https://victor-ai-enginner.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/Victor-Ads">⌨️ código</a></td>
-<td width="50%" valign="top" align="center"><a href="https://victor-hub-ai.vercel.app"><img src="assets/cards/projeto-victor-hub-ai.svg" alt="Victor Hub AI" width="100%" /></a><br><a href="https://victor-hub-ai.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/victor-hub-ai">⌨️ código</a></td>
+<td width="50%" valign="top"><a href="https://victor-ai-enginner.vercel.app"><img src="assets/projetos/victor-ads.jpg" alt="Victor Ads" width="100%"></a><br><b>Victor Ads</b><br><sub>Sistemas de IA e automação para o negócio de uma pessoa só rodar como um time.</sub><br><a href="https://victor-ai-enginner.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/Victor-Ads">⌨️ código</a></td>
+<td width="50%" valign="top"><a href="https://victor-hub-ai.vercel.app"><img src="assets/projetos/victor-hub-ai.jpg" alt="Victor Hub AI" width="100%"></a><br><b>Victor Hub AI</b><br><sub>Arsenal pessoal de produção real: interfaces animadas e sistemas que vendem.</sub><br><a href="https://victor-hub-ai.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/victor-hub-ai">⌨️ código</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><a href="https://golgotha-project.vercel.app"><img src="assets/cards/projeto-golgothateams.svg" alt="Golgothateams" width="100%" /></a><br><a href="https://golgotha-project.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/Golgothateams">⌨️ código</a></td>
-<td width="50%" valign="top" align="center"><a href="https://github.com/Victor-Enginner/data-sales-agent"><img src="assets/cards/projeto-data-sales-agent.svg" alt="data-sales-agent" width="100%" /></a><br><a href="https://github.com/Victor-Enginner/data-sales-agent">⌨️ código</a></td>
+<td width="50%" valign="top"><a href="https://golgotha-project.vercel.app"><img src="assets/projetos/golgothateams.jpg" alt="Golgothateams" width="100%"></a><br><b>Golgothateams</b><br><sub>Security Ops Hub: roadmap, setup, arsenal e playbook de segurança ofensiva ética.</sub><br><a href="https://golgotha-project.vercel.app">🌐 site</a> · <a href="https://github.com/Victor-Enginner/Golgothateams">⌨️ código</a></td>
+<td width="50%" valign="top"><b>data-sales-agent</b><br><sub>Pipeline local-first: dados → e-book → landing page com dashboard → relatório.</sub><br><a href="https://github.com/Victor-Enginner/data-sales-agent">⌨️ código</a></td>
 </tr>
 </table>
 
@@ -125,11 +125,11 @@ sequenceDiagram
 ## `//` Atividade
 
 <p align="center">
-<a href="https://github.com/Victor-Enginner"><img src="assets/cards/atividade.svg" alt="Rastro de contribuições" width="100%" /></a>
+<a href="https://github.com/Victor-Enginner"><img src="assets/gitskins/heatmap.svg" alt="Contribuições de Victor Ads" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Victor-Enginner?tab=repositories"><img src="assets/cards/sinais.svg" alt="Sinais do perfil" width="100%" /></a>
+<a href="https://github.com/Victor-Enginner?tab=repositories"><img src="assets/gitskins/stats.svg" alt="Estatísticas de Victor Ads" /></a>
 </p>
 
 ## `//` Princípios
@@ -145,14 +145,12 @@ sequenceDiagram
 ## `//` Contato
 
 <p align="center">
-<a href="https://github.com/Victor-Enginner"><img src="assets/cards/contato-github.svg" alt="GitHub @victor-enginner" width="360" /></a>
-<a href="https://victor-ai-enginner.vercel.app"><img src="assets/cards/contato-site.svg" alt="Site Victor Ads" width="360" /></a>
-<br>
-<a href="https://victor-hub-ai.vercel.app"><img src="assets/cards/contato-hub.svg" alt="Victor Hub AI" width="360" /></a>
-<a href="https://github.com/Victor-Enginner/Portf-lio"><img src="assets/cards/contato-portfolio.svg" alt="Portfólio" width="360" /></a>
+<a href="https://github.com/Victor-Enginner"><img src="assets/gitskins/social.svg" alt="Links de Victor Ads" /></a>
 </p>
 
-<p align="center"><b>Aberto a</b>: engenharia de IA · automação · sistemas de produto · segurança ética</p>
+- **Repositórios**: [ver todos](https://github.com/Victor-Enginner?tab=repositories)
+- **Portfólio**: [Portf-lio](https://github.com/Victor-Enginner/Portf-lio) · [portfolio/](portfolio/)
+- **Aberto a**: engenharia de IA · automação · sistemas de produto · segurança ética
 
 <div align="center">
 
